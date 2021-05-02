@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
-<h3 align="center">A Software Engineer with a passion for math, puzzles and challenging problems. Crypto noob. Also interested in cryptography.</h3>
+<!-- <h3 align="center">I'm a Software Engineer with a passion for math, puzzles and challenging problems. Crypto noob. Also interested in cryptography.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmony5&label=Profile%20views&color=0e75b6&style=flat" alt="harmony5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harmony5" alt="harmony5" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/f4ntome" target="blank"><img src="https://img.shields.io/twitter/follow/f4ntome?logo=twitter&style=for-the-badge" alt="f4ntome" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harmony5" alt="harmony5" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at my [GitLab](https://gitlab.com/users/jeancgo/projects) and [GitHub](https://github.com/harmony5)
 
