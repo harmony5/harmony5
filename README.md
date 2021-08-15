@@ -55,7 +55,7 @@ Icon sites:
     <img src="assets/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://materializecss.com/" target="_blank">
-    <img src=assets/materialize.svg" alt="materialize" width="40" height="40"/>
+    <img src="assets/materialize.svg" alt="materialize" width="40" height="40"/>
 </a>
 <a href="https://reactjs.org/" target="_blank">
     <img src="assets/react.svg" alt="react" width="40" height="40"/>
@@ -118,8 +118,8 @@ Icon sites:
 
 <div align="center">
 
-    ![harmony5 stats](hgtps://github-readme-stats.vercel.app/api?username=harmony5&show_icons=true&locale=en)
+![harmony5 stats](https://github-readme-stats.vercel.app/api?username=harmony5&show_icons=true&locale=en)
 
-    ![harmony5 streaks](https://github-readme-streak-stats.herokuapp.com/?user=harmony5&)
+![harmony5 streaks](https://github-readme-streak-stats.herokuapp.com/?user=harmony5&)
 
 </div>
