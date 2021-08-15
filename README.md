@@ -116,6 +116,10 @@ Icon sites:
 
 ## Some stats
 
-![harmony5 stats](https://github-readme-stats.vercel.app/api?username=harmony5&show_icons=true&locale=en)
+<div align="center">
 
-![harmony5 streaks](https://github-readme-streak-stats.herokuapp.com/?user=harmony5&)
+    ![harmony5 stats](hgtps://github-readme-stats.vercel.app/api?username=harmony5&show_icons=true&locale=en)
+
+    ![harmony5 streaks](https://github-readme-streak-stats.herokuapp.com/?user=harmony5&)
+
+</div>
