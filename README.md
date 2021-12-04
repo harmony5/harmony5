@@ -20,12 +20,12 @@ Icon sites:
 
 - 💬 Ask me about **Python, SQL**
 
-- 📫 You can reach me at **jeancgo@pm.me**
+- 📫 You can reach me at **jeancgo1@pm.me**
 
 ## Connect with me
 
-<a href="https://twitter.com/f4ntome" target="blank">
-        <img align="center" src="assets/twitter.svg" alt="f4ntome" height="30" width="40" />
+<a href="https://twitter.com/_harmony5_" target="blank">
+        <img align="center" src="assets/twitter.svg" alt="_harmony5_" height="30" width="40" />
 </a>
 <a href="https://stackoverflow.com/users/6928721" target="blank">
     <img align="center" src="assets/stackoverflow.svg" alt="jeancgo stackoverflow profile" height="30" width="40" />
@@ -33,7 +33,7 @@ Icon sites:
 <a href="https://www.hackerrank.com/jeancgo" target="blank">
     <img align="center" src="assets/hackerrank.svg" alt="jeancgo hackerrank profile" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/jeancgo" target="blank">
+<a href="https://www.leetcode.com/harmony5" target="blank">
     <img align="center" src="assets/leetcode.svg" alt="jeancgo leetcode profile" height="30" width="40" />
 </a>
 
