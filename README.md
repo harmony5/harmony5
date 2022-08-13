@@ -15,16 +15,16 @@
 ## Connect with me
 
 <a href="https://twitter.com/_harmony5_" target="blank">
-        <img align="center" src="assets/twitter.svg" alt="_harmony5_" height="30" width="40" />
+        <img align="center" src="assets/twitter.svg" alt="@_harmony5_ twitter profile"/>
 </a>
 <a href="https://stackoverflow.com/users/6928721" target="blank">
-    <img align="center" src="assets/stackoverflow.svg" alt="jeancgo stackoverflow profile" height="30" width="40" />
+    <img align="center" src="assets/stackoverflow.svg" alt="jeancgo stackoverflow profile"/>
 </a>
 <a href="https://www.hackerrank.com/jeancgo" target="blank">
-    <img align="center" src="assets/hackerrank.svg" alt="jeancgo hackerrank profile" height="30" width="40" />
+    <img align="center" src="assets/hackerrank.svg" alt="jeancgo hackerrank profile"/>
 </a>
 <a href="https://www.leetcode.com/harmony5" target="blank">
-    <img align="center" src="assets/leetcode.svg" alt="jeancgo leetcode profile" height="30" width="40" />
+    <img align="center" src="assets/leetcode.svg" alt="jeancgo leetcode profile"/>
 </a>
 
 ## Technologies
