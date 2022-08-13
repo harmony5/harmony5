@@ -1,6 +1,7 @@
 <h1 align="center">Hi, there! 👋</h1>
 
 ![harmony5](https://komarev.com/ghpvc/?username=harmony5&label=Profile%20views&color=0e75b6&style=flat)
+![harmony5](https://img.shields.io/twitter/follow/_harmony5_?label=Follow&style=social)
 
 <!-- -   🔭 I’m currently working on <something>. -->
 
